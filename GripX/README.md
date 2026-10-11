@@ -97,7 +97,7 @@ virtual-gamepad/
 │
 ├── server/                  # Python Windows host
 │   ├── server.py            # UDP receiver and controller mapping
-│   └── requirements.txt     # Python dependencies
+│   └── requirement.txt     # Python dependencies
 │
 ├── README.md
 ```
@@ -146,7 +146,7 @@ Open a terminal and navigate to the server directory.
 
 ```bash
 cd server
-python -m pip install -r requirements.txt
+python -m pip install -r requirement.txt
 ```
 
 **Step 3: Start the receiver**
