@@ -1,4 +1,4 @@
-* GripX-Wireless Android Virtual Gamepad
+** GripX-Wireless Android Virtual Gamepad **
 
 Transform your Android smartphone into a fully functional wireless Xbox 360 game controller over your local Wi-Fi network. This project features motion-based tilt steering, on-screen touch controls, dynamic haptic feedback, and a high-performance Python-to-Windows kernel driver bridge.
 
