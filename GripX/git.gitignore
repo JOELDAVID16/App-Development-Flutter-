@@ -1,0 +1,21 @@
+# --- Flutter Ignores ---
+client/build/
+client/.dart_tool/
+client/.flutter-plugins
+client/.flutter-plugins-dependencies
+client/.packages
+client/ios/Flutter/App.framework
+client/ios/Flutter/Flutter.framework
+
+# --- Python Ignores ---
+server/__pycache__/
+server/.venv/
+server/venv/
+*.pyc
+
+# --- IDE & OS Ignores ---
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
