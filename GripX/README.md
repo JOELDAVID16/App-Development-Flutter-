@@ -100,7 +100,6 @@ virtual-gamepad/
 │   └── requirements.txt     # Python dependencies
 │
 ├── README.md
-└── LICENSE
 ```
 
 ## ⚙️ Requirements
